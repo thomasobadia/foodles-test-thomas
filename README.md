@@ -19,8 +19,8 @@ You are free to chose the programming language that you are the most comfortable
 ## Installation 
 To install the project :
 - Clone this repository
-- Install dependencies (yarn or npm i )
+- Install dependencies (``yarn``)
 
 ### Running Tests 
 The tests for this function are written with Jest. To run the tests, run the following command: 
- yarn test 
+ ``yarn test``
